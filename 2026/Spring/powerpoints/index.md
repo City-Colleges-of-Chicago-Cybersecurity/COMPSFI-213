@@ -7,8 +7,7 @@ title: COMPSFI 214 Spring 2026
 
 
 ## Content
-- [Introduction](Spring2026-Introductions.pdf)
+- [Introduction](Introductions.pdf)
 - [Why CISSP?](Why-CISSP.pdf)
-- [Chapter 01 - Security Governance Through Principles and Policies](Chapter-01-Security-Governance-Through-Principles-and-Policies.pdf)
-- [Chapter 02 - Personnel Security and Risk Management Concepts](Chapter-02-Personnel-Security-and-Risk-Management-Concepts.pdf)
--[Chapter 03 - Business Continuity Planning](Chapter-03-Business-Continuity-Planning.pdf)
+- [Chapter 01 - Ethical Hacking Overview](01-Ethical-Hacking-Overview.pdf)
+- [Chapter 02 - TCP/IP Concepts Review](02-TCP-IP-Concepts-Review.pdf)

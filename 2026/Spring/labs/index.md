@@ -1,6 +1,6 @@
 # Lab Assignments
 
-Here written labs will be posted each week.
+All labs will be using [HackTheBox](www.academy.hackthebox.com) platform.
 
 ## Content
 - [Lab 01](lab01.md)
